@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.selenium.project.testarea.MagentoHomePageTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.955 sec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.221 sec
